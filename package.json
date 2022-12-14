@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code",
+  "description": "A repo of my solutions to Advent of Code problems",
+  "scripts": {
+    "2022-day1": "cd 2022/day1 && node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganb1max/advent-of-code.git"
+  },
+  "author": "loganb1max",
+  "homepage": "https://github.com/loganb1max/advent-of-code#readme"
+}
