@@ -3,7 +3,8 @@
   "description": "A repo of my solutions to Advent of Code problems",
   "scripts": {
     "2022-day1": "cd 2022/day1 && node index.js",
-    "2022-day2": "cd 2022/day2 && node index.js"
+    "2022-day2": "cd 2022/day2 && node index.js",
+    "2022-day3": "cd 2022/day3 && node index.js"
   },
   "type": "module",
   "repository": {
